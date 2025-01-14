@@ -153,21 +153,24 @@ Getting Started with Student and Teacher Login Page
   
 </div>
 Template Page For Interactive Look
+
 ![Template Page For Interactive Look](https://github.com/user-attachments/assets/c27bfa25-e180-4a51-9f9d-f87b4eb47579)
 <div>
   
 </div>
-Student Dashboard
+<h1>Student Dashboard</h1>
 <div>
   
 </div>
 Student Registration
+
 ![student registration](https://github.com/user-attachments/assets/f2f2a840-5a2f-4d09-8815-20eee439f9f1)
 
 <div>
   
 </div>
 Student Login
+
 ![student login ](https://github.com/user-attachments/assets/03c191f2-7227-40c6-84c7-0a2e914271e1)
 
 
