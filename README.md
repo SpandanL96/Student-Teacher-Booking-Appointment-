@@ -141,6 +141,7 @@ The application should now be running on `http://localhost:5173/`.
 ## Screenshots
 
 <h1>Landing Page </h1>
+
 ![Login Dashboard](https://github.com/user-attachments/assets/da19269c-efe1-472d-bb54-228b544d8c51)
 <div>
   </div>
@@ -158,13 +159,13 @@ The application should now be running on `http://localhost:5173/`.
 <h1>Student Dashboard</h1>
 <div>
   </div>
-Student Registration
+<h4>1.Student Registration</h4>
 
 ![student registration](https://github.com/user-attachments/assets/f2f2a840-5a2f-4d09-8815-20eee439f9f1)
 
 <div>
  </div>
-Student Login
+<h4>2.Student Login</h4>
 
 ![student login ](https://github.com/user-attachments/assets/03c191f2-7227-40c6-84c7-0a2e914271e1)
 
@@ -180,39 +181,35 @@ Student Login
 <h1>Admin Dashboard</h1>
 <div>
   </div>
-Admin Login
+<h4>1.Admin Login</h4>
 
 ![admin panel](https://github.com/user-attachments/assets/0d2adbe1-014d-450b-8e06-6c135c37e6e9)
 <div>
-  
 </div>
-Adding Teacher Details
+<h4>2.Adding Teacher Details</h4>
 
 ![adding teacher details](https://github.com/user-attachments/assets/95d61145-b876-482d-a6a4-000170dd468c)
 <div>
-  
-</div>
-Updating Teacher Details
+ </div>
+<h4>3.Updating Teacher Details</h4>
 
 ![updated teacher](https://github.com/user-attachments/assets/390cf2ea-ae38-4594-b3bc-dcac33ed0dbc)
 <div>
-  
-</div>
-Deleting Teacher Details
+  </div>
+<h4>4.Deleting Teacher Details</h4>
 
 ![deleting teacher ](https://github.com/user-attachments/assets/045b9d1d-2558-4bbb-b08b-84c4dae45e4e)
 <div>
-  
-</div>
-List of Teacher Available
+  </div>
+<h4>5.List of Teacher Available</h4>
 
 ![teacher list](https://github.com/user-attachments/assets/41b69b02-7c60-490b-ad46-ae20c0cf1399)
 <div>
-  
-</div>
-List of Students
+ </div>
+<h4>6.List of Students</h4>
 
 ![student list](https://github.com/user-attachments/assets/acd4d382-4406-41a9-a237-b47151672620)
+
 ## Login
 
 **Student**
