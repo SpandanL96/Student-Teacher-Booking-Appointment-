@@ -174,31 +174,74 @@ Student Login
 ![student login ](https://github.com/user-attachments/assets/03c191f2-7227-40c6-84c7-0a2e914271e1)
 
 
-Teacher Dashboard
+<h1>Teacher Dashboard</h1>
+<div>
+  
+</div>
+Teacher Login
 
-![teacher d Dark](https://github.com/rudrax14/MERN_STACK-StudentTeacher-Booking-Appointment/assets/97178716/ab56fb55-e38f-47d9-9622-0e48257d06e5)
-
+![teacher login page](https://github.com/user-attachments/assets/46e4deca-4892-488f-953c-fb0e67e269d5)
+<div>
+  
+</div>
 
 Admin Dashboard
+<div>
+  
+</div>
+Admin Login
 
-![admin ](https://github.com/rudrax14/MERN_STACK-StudentTeacher-Booking-Appointment/assets/97178716/5a3a856a-e26c-4e83-8179-1bb4da6ee810)
+![admin panel](https://github.com/user-attachments/assets/0d2adbe1-014d-450b-8e06-6c135c37e6e9)
+<div>
+  
+</div>
+Adding Teacher Details
 
+![adding teacher details](https://github.com/user-attachments/assets/95d61145-b876-482d-a6a4-000170dd468c)
+<div>
+  
+</div>
+Updating Teacher Details
+
+![updated teacher](https://github.com/user-attachments/assets/390cf2ea-ae38-4594-b3bc-dcac33ed0dbc)
+<div>
+  
+</div>
+Deleting Teacher Details
+
+![deleting teacher ](https://github.com/user-attachments/assets/045b9d1d-2558-4bbb-b08b-84c4dae45e4e)
+<div>
+  
+</div>
+List of Teacher Available
+
+![teacher list](https://github.com/user-attachments/assets/41b69b02-7c60-490b-ad46-ae20c0cf1399)
+<div>
+  
+</div>
+List of Students
+
+![student list](https://github.com/user-attachments/assets/acd4d382-4406-41a9-a237-b47151672620)
 ## Login
 
 **Student**
  ```bash
-email: student@gmail.com
-Password: pass123
+name: dinesh
+class: 12
+school: holy christ
+phone: 8763474398
+email: xyz@yahoo.com
+Password: 571909
  ```
 **Teacher**
  ```bash
-email: teacher@gmail.com
-Password: pass123
+name: hitesh
+Password: 872920
  ```
 **Admin**
  ```bash
-email: admin@gmail.com
-Password: admin
+email: admin123
+Password: admin123  
  ```
 **Note: Don't Spam**
 
