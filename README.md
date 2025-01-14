@@ -145,12 +145,12 @@ The application should now be running on `http://localhost:5173/`.
 ![Login Dashboard](https://github.com/user-attachments/assets/da19269c-efe1-472d-bb54-228b544d8c51)
 <div>
   </div>
-<h4>Getting Started with Student and Teacher Login Page</h4>
+<h4>1.Getting Started with Student and Teacher Login Page</h4>
 
 ![Getting Started with Student and Teacher Login Page](https://github.com/user-attachments/assets/3e91ec77-f1ca-4075-a654-a8581c1aa538)
 <div>
   </div>
-<h4>Template Page For Interactive Look</h4>
+<h4>2.Template Page For Interactive Look</h4>
 
 ![Template Page For Interactive Look](https://github.com/user-attachments/assets/c27bfa25-e180-4a51-9f9d-f87b4eb47579)
 <div>
