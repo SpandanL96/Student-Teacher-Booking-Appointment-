@@ -140,55 +140,46 @@ The application should now be running on `http://localhost:5173/`.
 
 ## Screenshots
 
-Landing Page 
+<h1>Landing Page </h1>
 ![Login Dashboard](https://github.com/user-attachments/assets/da19269c-efe1-472d-bb54-228b544d8c51)
-
 <div>
-  
-</div>
-Getting Started with Student and Teacher Login Page
+  </div>
+<h4>Getting Started with Student and Teacher Login Page</h4>
 
 ![Getting Started with Student and Teacher Login Page](https://github.com/user-attachments/assets/3e91ec77-f1ca-4075-a654-a8581c1aa538)
 <div>
-  
-</div>
-Template Page For Interactive Look
+  </div>
+<h4>Template Page For Interactive Look</h4>
 
 ![Template Page For Interactive Look](https://github.com/user-attachments/assets/c27bfa25-e180-4a51-9f9d-f87b4eb47579)
 <div>
+  </div>
   
-</div>
 <h1>Student Dashboard</h1>
 <div>
-  
-</div>
+  </div>
 Student Registration
 
 ![student registration](https://github.com/user-attachments/assets/f2f2a840-5a2f-4d09-8815-20eee439f9f1)
 
 <div>
-  
-</div>
+ </div>
 Student Login
 
 ![student login ](https://github.com/user-attachments/assets/03c191f2-7227-40c6-84c7-0a2e914271e1)
 
-
 <h1>Teacher Dashboard</h1>
 <div>
-  
-</div>
-Teacher Login
+  </div>
+<h4>Teacher Login</h4>
 
 ![teacher login page](https://github.com/user-attachments/assets/46e4deca-4892-488f-953c-fb0e67e269d5)
 <div>
-  
-</div>
+  </div>
 
-Admin Dashboard
+<h1>Admin Dashboard</h1>
 <div>
-  
-</div>
+  </div>
 Admin Login
 
 ![admin panel](https://github.com/user-attachments/assets/0d2adbe1-014d-450b-8e06-6c135c37e6e9)
