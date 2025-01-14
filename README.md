@@ -70,7 +70,7 @@ To run this project locally, follow these steps:
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/rudrax14/MERN_STACK-StudentTeacher-Booking-Appointment
+    git clone [https://github.com/SpandanL96/Student-Teacher-Booking-Appointment-]
     ```
 
 2. **Install backend dependencies:**
