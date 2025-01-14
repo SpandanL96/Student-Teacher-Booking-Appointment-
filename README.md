@@ -143,11 +143,33 @@ The application should now be running on `http://localhost:5173/`.
 Landing Page 
 ![Login Dashboard](https://github.com/user-attachments/assets/da19269c-efe1-472d-bb54-228b544d8c51)
 
+<div>
+  
+</div>
+Getting Started with Student and Teacher Login Page
 
-
+![Getting Started with Student and Teacher Login Page](https://github.com/user-attachments/assets/3e91ec77-f1ca-4075-a654-a8581c1aa538)
+<div>
+  
+</div>
+Template Page For Interactive Look
+![Template Page For Interactive Look](https://github.com/user-attachments/assets/c27bfa25-e180-4a51-9f9d-f87b4eb47579)
+<div>
+  
+</div>
 Student Dashboard
+<div>
+  
+</div>
+Student Registration
+![student registration](https://github.com/user-attachments/assets/f2f2a840-5a2f-4d09-8815-20eee439f9f1)
 
-![student dashboard dark](https://github.com/rudrax14/MERN_STACK-StudentTeacher-Booking-Appointment/assets/97178716/ab39e093-3bad-4101-982d-5eb459593580)
+<div>
+  
+</div>
+Student Login
+![student login ](https://github.com/user-attachments/assets/03c191f2-7227-40c6-84c7-0a2e914271e1)
+
 
 Teacher Dashboard
 
