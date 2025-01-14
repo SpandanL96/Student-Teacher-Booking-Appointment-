@@ -141,8 +141,9 @@ The application should now be running on `http://localhost:5173/`.
 ## Screenshots
 
 Landing Page 
+![Login Dashboard](https://github.com/user-attachments/assets/da19269c-efe1-472d-bb54-228b544d8c51)
 
-![landingpage Dark](https://github.com/rudrax14/MERN_STACK-StudentTeacher-Booking-Appointment/assets/97178716/d3d4b1ef-e3ff-413e-afd4-3dabce321705)
+
 
 Student Dashboard
 
