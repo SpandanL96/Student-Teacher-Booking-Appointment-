@@ -87,6 +87,25 @@ bcrypt (encryption)
  ```bash
       npm run dev
   ```
+
+- Install MongoDB on Windows
+1. Visit the official MongoDB download page: https://www.mongodb.com/try/download/community.
+2. Choose Windows as the platform and select the .msi installer (recommended for Windows).
+3. Click Download.
+
+- Run the Installer
+1. After downloading the .msi file, double-click it to run the installer.
+2. You will be asked to choose the type of installation: Choose Complete installation (recommended). Click Next.
+
+- Configure MongoDB
+1. On the next screen, choose to Install MongoDB as a Service (this will allow MongoDB to run automatically in the background). Click Next and then Install.
+2. Add MongoDB to System PATH (Optional)
+3. Start MongoDB : Open Command Prompt. Type mongod to start the MongoDB server.
+ ```bash
+ mkdir C:\data\db
+  ```
+4. Verify Installation : Open a new Command Prompt window and type mongo to enter the MongoDB shell. If you see the MongoDB shell prompt (>), the installation was successful.
+   
 To run this project locally, follow these steps:
 
 1. **Clone the repository:**
