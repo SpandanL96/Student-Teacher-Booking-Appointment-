@@ -69,10 +69,10 @@ bcrypt (encryption)
 - Verify Node.js and npm Installation
 1. Open a new command prompt or PowerShell window.
 2. Type the following commands to check if Node.js and npm are installed:
-    ```bash
-   node -v
-   npm -v
-    ```
+```bash
+node -v
+npm -v
+```
 3.If both commands return version numbers, Node.js and npm are installed, but you may need to fix your PATH.If either command returns an error, you'll need to install Node.js and npm.
 
 - If Node.js and npm are not installed, follow these steps:
@@ -80,13 +80,13 @@ bcrypt (encryption)
 2. Download the latest LTS (Long-Term Support) version of Node.js for your system.
 3. Run the installer and follow the installation steps. The installer will automatically install both Node.js and npm.
 4. Once installed, restart your terminal (PowerShell or Command Prompt) and run the following command again:
-    ```bash
-      npm -v
-    ```
+```bash
+npm -v
+```
 - Ensure npm is in the PATH
- ```bash
-      npm run dev
-  ```
+```bash
+npm run dev
+```
 
 - Install MongoDB on Windows
 1. Visit the official MongoDB download page: https://www.mongodb.com/try/download/community.
@@ -101,12 +101,12 @@ bcrypt (encryption)
 1. On the next screen, choose to Install MongoDB as a Service (this will allow MongoDB to run automatically in the background). Click Next and then Install.
 2. Add MongoDB to System PATH (Optional)
 3. Start MongoDB : Open Command Prompt. Type mongod to start the MongoDB server.
- ```bash
- mkdir C:\data\db
-  ```
+```bash
+mkdir C:\data\db
+```
 4. Verify Installation : Open a new Command Prompt window and type mongo to enter the MongoDB shell. If you see the MongoDB shell prompt (>), the installation was successful.
    
-To run this project locally, follow these steps:
+- To run this project locally, follow these steps:
 
 1. **Clone the repository:**
     ```bash
